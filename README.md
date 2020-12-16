@@ -1,4 +1,4 @@
-#General
+# General
 In this repository, you can find the toolchain that we want to make available alongside our paper "Reining in the Web's Inconsistencies with Site Policy".  
 It hosts the code for SPEnforcer, SPCollector, SPAggregator and SPAnalyzer as described throughout section 6.
 # Setup
